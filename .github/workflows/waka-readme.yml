@@ -11,7 +11,8 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
+
       - uses: DylanVauthieu/DylanVauthieu@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
