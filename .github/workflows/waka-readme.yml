@@ -21,3 +21,7 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+      # Checkout the repo
+      - uses: actions/checkout@v3
+        with:
+          Default: ${{ github.repository }}
