@@ -5,6 +5,10 @@
 - 📫 How to reach me: dylan.vauthieu@epitech.eu
 - ⚡ Fun fact: Tek 1 | Epitech Strasbourg
 
+<!--START_SECTION:profil metrics-->
+
+![Metrics](/metrics.classic.svg)
+
 <!--START_SECTION:waka-->
 
 ```text
