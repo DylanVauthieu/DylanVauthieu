@@ -28,5 +28,4 @@ jobs:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_calendar: 'yes'
-          use_mocked_data: 'yes'
           verify: 'yes'
