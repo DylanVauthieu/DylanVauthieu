@@ -25,3 +25,5 @@ Other         54 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+![Metrics](/metrics.plugin.isocalendar.svg)
