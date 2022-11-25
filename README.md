@@ -7,7 +7,7 @@
 
 <!--START_SECTION:profil metrics-->
 
-![Metrics](/metrics.classic.svg)
+![Metrics](/metrics.plugin.isocalendar.svg)
 
 <!--START_SECTION:waka-->
 
@@ -25,5 +25,3 @@ Other         54 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-![Metrics](/metrics.plugin.isocalendar.svg)
