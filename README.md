@@ -1,9 +1,9 @@
 ### Welcome ! 👋
 
-- 🔭 I’m currently working on : TerraPvP, A new mod terraria with a new pvp system.
-- 🌱 I’m currently learning C and C#
+- 🔭 I’m currently working on a App with flutter and Dart !
+- 🌱 I’m currently learning C and Dart | Flutter
 - 📫 How to reach me: dylan.vauthieu@epitech.eu
-- ⚡ Fun fact: Tek 1 | Epitech Strasbourg
+- ⚡ Fun fact: Tek 1 | Epitech Nancy
 
 <!--START_SECTION:profil metrics-->
 
